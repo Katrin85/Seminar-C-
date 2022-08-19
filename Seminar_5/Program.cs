@@ -186,8 +186,3 @@ int[] myArray = CreateRandomArray (a, min, max);
 ShowArray(myArray);
 ShowArray(CompositionPairsOfElements(myArray));
 */
-
-
-
-// Задача №4. Задайте одномерный массив из 12 случайных чисел. Найдите количество элементов массива, значения которых лежат в отрезке [10,99].
-
