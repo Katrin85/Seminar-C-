@@ -235,3 +235,6 @@ Console.WriteLine();
 int[,] DArray = DeleteRowsColumns(myArray);
 Show2dArray(DArray);
 */
+
+
+//https://docs.microsoft.com/ru-ru/dotnet/csharp/
